@@ -11,9 +11,7 @@ function Hero() {
         <h2 className="intro">
           I'M <span className="intro-name">ANASWARA</span>
         </h2>
-        <p className="intro-p">GIS Engineer &</p>
-        <p className="intro-p">
-          CCNA certified Aspiring IT Security professional
+        <p className="intro-p">DevOps Engineer @ MBME WOW PAY | AI and Infrastructure Solutions
         </p>
       </div>
     </div>
