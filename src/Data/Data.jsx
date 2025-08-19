@@ -37,7 +37,7 @@ const ExpData = [
     company: "MBME WOW PAY",
     Duration: "Mar 2024-Present",
     companyUrl: "https://mbmepay.com/services",
-    companyLogo: require("../Assets/nwa.jpg"),
+    companyLogo: require("../Assets/MBME.png"),
     ExpDesc:
       "At MBME WOW PAY, I work as a DevSecOps Engineer, where I contribute to automating and securing workflows across complex IT environments. My role involves leveraging DevOps practices, integrating security into every stage of development, and working with cutting-edge technologies such as Generative AI and Virtual Desktop Infrastructure (VDI). By optimizing processes and enhancing scalability, I help drive efficiency, reliability, and innovation within the organization.",
   },
