@@ -33,13 +33,13 @@ const ExpData = [
       "I have experience analyzing spatial data with mapping software, customizing geo-databases in the DRC catalog, and interpreting data independently. I create and modify GIS datasets, produce digital maps, and generate reports using data visualizations.",
   },
   {
-    position: "Intern",
-    company: "Network Academy",
+    position: "Devops Engineer",
+    company: "MBME WOW PAY",
     Duration: "Mar 2024-Present",
-    companyUrl: "https://networkacademy.org/",
+    companyUrl: "https://mbmepay.com/services",
     companyLogo: require("../Assets/nwa.jpg"),
     ExpDesc:
-      "specialize in packet tracer, LAN, and network infrastructure. My role involves designing, implementing, and maintaining robust network systems to ensure optimal performance, security, and scalability for diverse clients and projects.",
+      "At MBME WOW PAY, I work as a DevSecOps Engineer, where I contribute to automating and securing workflows across complex IT environments. My role involves leveraging DevOps practices, integrating security into every stage of development, and working with cutting-edge technologies such as Generative AI and Virtual Desktop Infrastructure (VDI). By optimizing processes and enhancing scalability, I help drive efficiency, reliability, and innovation within the organization.",
   },
 ];
 
